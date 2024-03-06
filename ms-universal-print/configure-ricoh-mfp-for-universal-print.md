@@ -1,7 +1,7 @@
 # Configure RICOH MFP for Universal Print
 
-[!NOTE]
-There is not a lot of good documentation found on the internet. They all lack somekind of information about the configuration.
+>[!NOTE]
+>There is not a lot of good documentation found on the internet. They all lack somekind of information about the configuration.
 
 ## Azure
 
