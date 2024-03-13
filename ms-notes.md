@@ -1,1 +1,2 @@
 - [On 31 August 2024, Azure classic administrator roles will be retired](https://azure.microsoft.com/nl-nl/updates/azure-classic-resource-providers-will-be-retired-on-31-august-2024/)
+  - https://learn.microsoft.com/en-us/azure/role-based-access-control/classic-administrators#prepare-for-co-administrators-retirement
